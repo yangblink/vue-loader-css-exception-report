@@ -1,0 +1,5 @@
+/* toggle this comments to throw exception */
+/*@import './a.css';*/
+body {
+  background-color: green;
+}
